@@ -14,8 +14,8 @@ This documentation shows the steps of writing servo Motor code.
 
 # use servo Motor code
 
-'#include <Servo.h>'
- 
+``#include <Servo.h>'
+ `#include<Servo.h`
 'int servoPin = 9;'
  
 'Servo servo;' 
